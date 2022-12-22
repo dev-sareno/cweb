@@ -32,5 +32,5 @@ msg: instance1
 
 Build
 ```shell
-$ docker build -t devsareno/cweb:latest -t devsareno/cweb:v1.0 .
+$ docker build -t devsareno/cweb:latest .
 ```
